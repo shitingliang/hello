@@ -1,0 +1,4 @@
+24b3464b13e8ff3fb0baa7bf9a0dae38  qt-linux-opensource-5.0.0-x86_64-offline.run
+4c21394c57f5cdc16b6fc4dbed07f226  qt-linux-opensource-5.0.0-x86-offline.run
+64fc78b2e52054441094990bea642526  qt-mac-opensource-5.0.0-clang-offline.dmg
+0105b08711e4a0f024131ef12c4c8970  qt-windows-opensource-5.0.0-msvc2010_32-x86-offline.exe
